@@ -24,20 +24,20 @@ Welcome to my cryptographic sanctuary. I am a dedicated cybersecurity practition
 
 ### 📂 System Manifesto 
 
-*   🌐 **Identity & Designation :** I am **Data Computer Security** – an elite Cybersecurity Strategist & Infrastructure SecOps Specialist operating from the ID node.
-*   🎯 **Core Expertise :** Specializing in advanced threat mitigation, vulnerability research, and the deployment of high-grade cryptographic frameworks.
-*   🛠️ **Weaponry & Arsenal :** Leveraging elite-tier utilities including **ImHex** for low-level binary analysis, **VeraCrypt** for military-grade data encipherment, and **Autopsy** for deep digital forensics and artifact extraction.
-*   🔥 **Operational Philosophy :** Obsessed with absolute security posture, mitigating complex real-world vectors, and continuously engineering sophisticated defensive mechanisms.
-*   🚀 **Strategic Vectors :** Deeply immersed in Next-Gen Network Architecture, DevSecOps Hardening, and Enterprise Cloud Security Frameworks.
-*   🌱 **Evolutionary Path :** Rigorously mastering Advanced Penetration Testing methodologies, Cryptographic Protocols, and AI-driven Predictive Threat Intelligence.
-*   🤝 **Synergy & Alliance :** Open for high-tier collaboration on sovereign Open Source Privacy initiatives and critical Security Research.
-*   ⚡ **Anomalous Fact :** I decipher malicious artifacts and audit complex logs at breakneck speed, fueled by hyper-focus and premium caffeine.
-*   📬 **Secure Gateway :** Establish contact via secure routing at : [core.data.computer.sec.sys@keemail.me](mailto:core.data.computer.sec.sys@keemail.me)
+*   📁🌐 **Identity & Designation :** I am **Data Computer Security** – an elite Cybersecurity Strategist & Infrastructure SecOps Specialist operating from the ID node.
+*   📁🎯 **Core Expertise :** Specializing in advanced threat mitigation, vulnerability research, and the deployment of high-grade cryptographic frameworks.
+*   📁🛠️ **Weaponry & Arsenal :** Leveraging elite-tier utilities including **ImHex** for low-level binary analysis, **VeraCrypt** for military-grade data encipherment, and **Autopsy** for deep digital forensics and artifact extraction.
+*   📁🔥 **Operational Philosophy :** Obsessed with absolute security posture, mitigating complex real-world vectors, and continuously engineering sophisticated defensive mechanisms.
+*   📁🚀 **Strategic Vectors :** Deeply immersed in Next-Gen Network Architecture, DevSecOps Hardening, and Enterprise Cloud Security Frameworks.
+*   📁🌱 **Evolutionary Path :** Rigorously mastering Advanced Penetration Testing methodologies, Cryptographic Protocols, and AI-driven Predictive Threat Intelligence.
+*   📁🤝 **Synergy & Alliance :** Open for high-tier collaboration on sovereign Open Source Privacy initiatives and critical Security Research.
+*   📁⚡ **Anomalous Fact :** I decipher malicious artifacts and audit complex logs at breakneck speed, fueled by hyper-focus and premium caffeine.
+*   📁📬 **Secure Gateway :** Establish contact via secure routing at : [core.data.computer.sec.sys@keemail.me](mailto:core.data.computer.sec.sys@keemail.me)
 
 ### 📂 Verified Toolkit Repository 
-*   🔬 **ImHex :** [ImHex Official Site](https://imhex.werwolv.net/) | [GitHub Repository](https://github.com/WerWolv/ImHex)
-*   🔐 **VeraCrypt :** [VeraCrypt Official Site](https://www.veracrypt.jp/) | [GitHub Repository](https://github.com/veracrypt/VeraCrypt)
-*   🔎 **Autopsy :** [Autopsy Official Site](https://www.autopsy.com/) | [GitHub Repository](https://github.com/sleuthkit/autopsy)
+*   📁🔬 **ImHex :** [ImHex Official Site](https://imhex.werwolv.net/) | [GitHub Repository](https://github.com/WerWolv/ImHex)
+*   📁🔐 **VeraCrypt :** [VeraCrypt Official Site](https://www.veracrypt.jp/) | [GitHub Repository](https://github.com/veracrypt/VeraCrypt)
+*   📁🔎 **Autopsy :** [Autopsy Official Site](https://www.autopsy.com/) | [GitHub Repository](https://github.com/sleuthkit/autopsy)
 <br/>
     <br/>
 
