@@ -42,10 +42,9 @@ Welcome to my cryptographic sanctuary. I am a dedicated cybersecurity practition
     <br/>
 
 ### 📂 My GitHub Statistics
-
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=kgnio&theme=cyber-city
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=💾🔐DataComputerSecurity🔐💾&theme=tokyonight&hide_border=true" />
-  ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=kgnio&theme=cyber-city
 </div>
 <div align="center">
   <h2>💭 💡 <strong>Quotes I Code By</strong> 💡 💭</h2>
