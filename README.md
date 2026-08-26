@@ -40,14 +40,13 @@ Welcome to my cryptographic sanctuary. I am a dedicated cybersecurity practition
 *   📁🔎 **Autopsy :** [Autopsy Official Site](https://www.autopsy.com/) | [GitHub Repository](https://github.com/sleuthkit/autopsy)
 <br/>
     <br/>
----
+
 ### 📂 My GitHub Statistics
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=💾🔐DataComputerSecurity🔐💾&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
----
   <h2>💭 💡 <strong>Quotes I Code By</strong> 💡 💭</h2>
 </div>
 
