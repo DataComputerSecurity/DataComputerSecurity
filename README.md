@@ -37,7 +37,21 @@ Welcome to my cryptographic sanctuary. I am a dedicated cybersecurity practition
     <br/>
     
 ### 📂 My GitHub Statistics
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=DataComputerSecurity&theme=cyber-city)
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com/">
+    <img
+      src="https://streak-stats.demolab.com/?user=DataComputerSecurity&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
+      alt="GitHub Engineering Streak"
+      width="45%"
+    />
+  </a><img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DataComputerSecurity&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=My%20Technology%20Footprint"
+    alt="Technology Footprint"
+    width="45%"
+  />
+</p>
+
   <h2>💭 💡 <strong>Quotes I Code By</strong> 💡 💭</h2>
 </div>
 
