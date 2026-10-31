@@ -47,12 +47,7 @@ Welcome to my cryptographic sanctuary. I am a dedicated cybersecurity practition
     
 
 
-  <h2>💭 💡 <strong>Quotes I Code By</strong> 💡 💭</h2>
-</div>
-
-<div align="center">
-  <br/>
-  
+# QOUTES I CODE BY :
   > 🧠 *"First, **secure** the system. Then, write the code."* 📝
   >
   > 🔐 *"Privacy is **not** an option, it's a foundation."* 🏢
