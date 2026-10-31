@@ -47,7 +47,8 @@ Welcome to my cryptographic sanctuary. I am a dedicated cybersecurity practition
     
 
 
-# QOUTES I CODE BY :
+# **QOUTES I CODE BY** :
+
   > 🧠 *"First, **secure** the system. Then, write the code."* 📝
   >
   > 🔐 *"Privacy is **not** an option, it's a foundation."* 🏢
