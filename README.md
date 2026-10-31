@@ -43,8 +43,9 @@ Welcome to my cryptographic sanctuary. I am a dedicated cybersecurity practition
     <img
       src="https://streak-stats.demolab.com/?user=DataComputerSecurity&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
       alt="GitHub Engineering Streak"
-      width="90%"
+      width="100%"
     
+
 
   <h2>💭 💡 <strong>Quotes I Code By</strong> 💡 💭</h2>
 </div>
